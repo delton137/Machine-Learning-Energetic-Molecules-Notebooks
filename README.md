@@ -10,8 +10,10 @@ D. C. Elton, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, “Appl
 
 notebooks are in "/notebooks/" and relevant data is in "/datasets/"
 
+If you use any of the code here, please cite our work.
 
 Property data is publicly available and was taken from :
+
 Huang, L. & Massa, L. Applications of energetic materials by a theoretical method (discover energetic materials by a
 theoretical method). *Int. J. Ener. Mat. Chem. Prop.* **12**, 197–262 (2013)
 
@@ -20,7 +22,6 @@ and
 Mathieu, D. Sensitivity of energetic materials: Theoretical relationships to detonation performance and molecular structure.
 *Ind. & Eng. Chem. Res.* **56**, 8191–8201 (2017).
 
-If you use any of the code here, please cite our work.
 
 Address questions or comments to :
 
