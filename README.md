@@ -10,7 +10,10 @@ D. C. Elton, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, “Appl
 
 notebooks are in "/notebooks/" and relevant data is in "/datasets/"
 
+The code requires the *[Molecular Machine Learning Toolkit](https://github.com/delton137/mmltoolkit)*, which was developed in conjunction with the work in our paper.
+
 If you use any of the code here, please cite our work.
+
 
 Property data is publicly available and was taken from :
 
