@@ -8,7 +8,7 @@ This repository contains Python Jupyter Notebooks to reproduce all of the result
 
 D. C. Elton, Z. Boukouvalas, M. S. Butrico, M. D. Fuge, and P. W. Chung, “Applying machine learning techniques to predict the properties of energetic materials”, [arXiv:1801.04900](https://arxiv.org/abs/1801.04900), 2017
 
-notebooks are in "/notebooks/" and relevant data is in "/datasets/"
+notebooks are in "/notebooks/" and relevant data is in "/datasets/". Example .xyz coordinates generated for the Huang & Massa data are in /HM_all_xyz_files/
 
 The code requires the *[Molecular Machine Learning Toolkit](https://github.com/delton137/mmltoolkit)*, which was developed in conjunction with the work in our paper.
 
