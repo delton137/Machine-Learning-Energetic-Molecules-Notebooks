@@ -31,4 +31,4 @@ SMILES strings and .xyz coordinates were generated in house (see paper for detai
 
 Address questions or comments to :
 
-delton at umd dot edu
+delton17 at google mail 
