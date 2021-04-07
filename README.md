@@ -29,6 +29,4 @@ Mathieu, D. Sensitivity of energetic materials: Theoretical relationships to det
 
 SMILES strings and .xyz coordinates were generated in house (see paper for details). 
 
-Address questions or comments to :
 
-delton17 at google mail 
